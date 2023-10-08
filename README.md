@@ -4,8 +4,9 @@
 
 - I'm manual and automation Engineer.
 - I write autotests in Python
-- Email: kashkinsasha@gmail.com
-- Telegram: https://t.me/kashkinsasha
+- [Email](kashkinsasha@gmail.com)
+- [Telegram](https://t.me/kashkinsasha)
+- [Linkedin](www.linkedin.com/in/alexander-kashkin-386126274)
 
 ### 🛠️ Stack and tools:
 
@@ -25,7 +26,7 @@
 ### My Skills:
 
 - [Autotests] Requests + Pytest + Python
-- [Autotests] Selenium  + Python
+- [Autotests] Selenium + Python
 - [Autotests] Allure report + Allure TestOps
 - [WEB] Devtools
 - [WEB] Figma
