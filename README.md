@@ -6,7 +6,7 @@
 - I write autotests in Python
 - [Email](kashkinsasha@gmail.com)
 - [Telegram](https://t.me/kashkinsasha)
-- [Linkedin](www.linkedin.com/in/alexander-kashkin-386126274)
+- [Linkedin](https://www.linkedin.com/in/alexander-kashkin-386126274/)
 
 ### 🛠️ Stack and tools:
 
